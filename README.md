@@ -9,5 +9,5 @@ It servces as a review of the following:
 - git and GitHub
 - HTML main (index.html) page sections, tags and boilerplate
 - links
-- headers, paragraphs, <strong> and <em>
+- headers, paragraphs, <strong> strong </strong> and <em> em </em>
 - images
